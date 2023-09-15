@@ -1,3 +1,4 @@
+// HeatEquation.png shows the output of this code. 
 #include <iostream>
 #include<cmath>
 #include <fstream>
